@@ -87,8 +87,6 @@ Output:
 
 RTL
 
-![Uploading image.png…]()
-
 
 Result:
 
