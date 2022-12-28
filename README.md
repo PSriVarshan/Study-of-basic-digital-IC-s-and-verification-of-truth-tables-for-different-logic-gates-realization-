@@ -89,6 +89,7 @@ Output:
 
 RTL
 
+![expone rtl](https://user-images.githubusercontent.com/114944059/209795401-67ce41bf-2d81-4e05-b6cf-0b6e137e4aa4.png)
 
 Result:
 
