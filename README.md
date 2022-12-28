@@ -82,7 +82,7 @@ RegisterNumber:  22008051
 */
 
 Logic symbol & Truthtable
-
+![Logic gates](https://user-images.githubusercontent.com/114944059/209795180-d812f6ca-0259-409e-98c4-3d795e8cc696.jpg)
 RTL realization
 
 Output:
