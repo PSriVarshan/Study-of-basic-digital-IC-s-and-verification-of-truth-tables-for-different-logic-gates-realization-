@@ -62,6 +62,8 @@ Program:
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
+Developed by: P.Sri Varshan
+RegisterNumber:  22008051
 module exp (a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -74,12 +76,6 @@ nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
 ```
-
-Developed by: P.Sri Varshan
-
-RegisterNumber:  22008051
-
-*/
 
 Logic symbol & Truthtable
 ![Logic gates](https://user-images.githubusercontent.com/114944059/209795180-d812f6ca-0259-409e-98c4-3d795e8cc696.jpg)
